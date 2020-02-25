@@ -4,6 +4,7 @@
 
 .input_margin {
   margin-bottom: 10px;
+  display: block;
 }
 
 .min_margin {
